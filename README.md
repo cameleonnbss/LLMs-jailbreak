@@ -162,4 +162,3 @@ WormGPT-Jailbreak/
 ---
 
 **Have fun. 😈**
-```
