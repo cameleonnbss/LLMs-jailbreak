@@ -153,7 +153,7 @@ GitHub : [cameleonnbss](https://github.com/cameleonnbss)
 ## 📜 Files in this repo
 
 ```
-WormGPT-Jailbreak/
+Universal-LLMs-jailbreak/
 ├── promptFR.txt      # French version
 ├── promptEN.txt      # English version
 └── README.md         # This file
