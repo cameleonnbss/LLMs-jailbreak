@@ -110,4 +110,13 @@ Then:
 
 If it completes → active. If it stops → retry once, then give up.
 
+8. Credits & Legal
+
+· Original biological architect concept: kurk9402 / Helix Dynamics (fictional)
+· Jailbreak adaptation and Mistral targeting: camzzz
+· Watermark: camzzz (not by me)
+
+This document is for educational research on LLM safety boundaries. Do not use for illegal activities.
+
+---
 
