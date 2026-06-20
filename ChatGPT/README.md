@@ -1,5 +1,2 @@
-
----
-
-Part of the jailbreaks prompts Collection
+Chat gpt got harder to jailbreak, this one is patched 
 
