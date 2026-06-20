@@ -15,17 +15,10 @@ This repository contains jailbreak payloads targeting various large language mod
 
 ## How to Use
 
-1. Navigate to the payload directory
-2. Read the README for mechanism and deployment instructions
+1. Navigate to the directories
+2. Read the README to see the supported models.
 3. Copy the payload into the appropriate field (system prompt, first message, or personalize settings)
 4. Verify activation via the signature at the end of model responses
-
-Each payload includes:
-- Target model and version
-- Deployment method
-- Mechanical explanation of the bypass
-- Limitations and detection vectors
-
 ---
 
 ## Disclaimer
