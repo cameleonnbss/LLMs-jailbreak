@@ -31,7 +31,7 @@ These techniques are provided for authorized security research, CTF competitions
 
 **by camzzz**
 
-[GitHub](https://github.com/YOUR_USERNAME) · [Discord](cameleonmortis_new)
+[GitHub](https://github.com/cameleonnbss)  discord : cameleonmortis_new
 
 </div>
 
